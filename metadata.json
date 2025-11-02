@@ -1,0 +1,5 @@
+{
+  "name": "TrueWishes",
+  "description": "Share a wish with a photo for 24 hours. A fun, party-vibe frontend application to share temporary photos with likes and comments, powered by a simulated AI for wishful captions.",
+  "requestFramePermissions": []
+}
